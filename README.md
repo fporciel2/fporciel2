@@ -8,7 +8,7 @@ My quest for knowledge is driven by a desire to understand the Universe at a the
 
 ## 💻 Tech & Interests
 
-- **Languages & Technologies:** Proficient at elementary level in C language, competent at an elementary level in C and Bash, which I am learning through the GNU and 42 standards.
+- **Languages & Technologies:** Proficient at an elementary level in C and Bash, which I am learning through the GNU and 42 standards.
                                 I am interested in expanding my skills to other languages, once I consolidate my knowledge of C, C++ and Bash.
                                 In particular, I am interested in Rust, Lisp and Cobol.
   
